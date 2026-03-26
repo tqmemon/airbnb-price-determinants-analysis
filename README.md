@@ -1,0 +1,1 @@
+This study examines what drives short-term rental prices in Amsterdam, Athens, and Berlin. My focus was on the LASSO regression and log-transformations used for feature selection and addressing heteroscedasticity.
